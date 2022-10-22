@@ -1,0 +1,19 @@
+#ID; tip korisnika ; ime ; prezime ; pol ; datum rodjenja ; telefon ; adresa ; korisnicko ime ; lozinka; nivoStrucneSpreme; staz
+1 ;  administrator  ; Dusan ; Djordjevic ; muski ; 16.04.2002. ; 0668204865 ; 17000 ; dule123 ; dule123 ;  /  ;  / 
+6 ;  recepcioner  ; asda ; asd ; zenski ; 04.08.2022 ; 918403498 ; Adajdaiodinf3123123 ; marko1234 ; marko1234 ; 73 ; 10
+8 ;  gost  ; Marijana ; Krstic ; muski ; 13.08.2022 ; 0668204812 ; Vojvodjanska 32, Novi Sad ; maki123 ; maki123 ;  /  ;  / 
+11 ;  gost  ; Suncica ; Stojadinovic ; zenski ; 21.02.1984 ; 051234123 ; Prizrenska ; sunshine ; sunshine ;  /  ;  / 
+12 ;  sobarica  ; Tamara ; Djordjevic ; zenski ; 10.10.2002 ; 0641230981 ; Ucitelja Milana ; tami ; tami123 ; 4 ; 2
+13 ;  recepcioner  ; Veljko ; Rasic ; muski ; 20.03.2010 ; 064789123 ; Kajmakcalanska ; veleshmele ; veljko123 ; 5 ; 10
+16 ;  gost  ; asdq ; afafsdf ; muski ; 13.08.2022 ; 12323423 ; asdasd1 ; akdlakskd@asd.com ; 123 ;  /  ;  / 
+17 ;  gost  ; Marko ; Markovic ; muski ; 16.04.2005 ; 19023809 ; jasdjoaisdj21 ; marko@gmail.com ; 1234 ;  /  ;  / 
+18 ;  gost  ; Marko ; Marjanovic ; muski ; 19.08.2022 ; 1272398791 ; asjdoijioj12 ; marko@yahoo.com ; 123 ;  /  ;  / 
+19 ;  gost  ; Zvezdan ; Pejcic ; muski ; 14.02.2014 ; 064546234 ; Kajmakcalanska 22, Nis, 18000 ; pejcic.z@gmail.com ; 1234 ;  /  ;  / 
+20 ;  sobarica  ; Ana ; Djordjevic ; zenski ; 10.10.2002 ; 0642330981 ; Banovic Strahinje ; ana ; ana ; 4 ; 2
+21 ;  gost  ; Aca ; Markovic ; muski ; 03.09.2022 ; 435234 ; adwae1 ; aca@gmail.com ; 12345 ;  /  ;  / 
+22 ;  sobarica  ; Marta ; Stevanovic ; zenski ; 13.07.2001 ; 067895432 ; Draze Mihajlovica 17500, Valjevo ; marta ; marta123 ; 4 ; 9
+23 ;  sobarica  ; Anastasija ; Ivanovic ; zenski ; 19.05.1986 ; 065456321 ; Bulevar Cara Lazara 33, Novi Sad ; ana_ivanovic ; 12345 ; 5 ; 15
+24 ;  recepcioner  ; Marko ; Stanisavljevic ; muski ; 14.04.1989 ; 0653022567 ; Radnih brigada BB ; marko.s ; mare123 ; 6 ; 10
+25 ;  gost  ; Anastasija ; Zivic ; zenski ; 19.09.1997 ; 065304543 ; Stefana Prvovencanog 23 ; ana97@yahoo.com ; 235 ;  /  ;  / 
+26 ;  sobarica  ; Marija ; Maric ; zenski ; 10.06.1987 ; 0678594321 ; Kosovska 32 ; marija.m ; marija123 ; 6 ; 6
+27 ;  gost  ; Nikola ; Trajkovic ; muski ; 09.09.2002 ; 06891238 ; Kosovska BB ; nikola@gmail.com ; 1234 ;  /  ;  / 

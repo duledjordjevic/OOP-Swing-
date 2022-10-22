@@ -1,0 +1,9 @@
+package entity;
+
+public enum TipSobe {
+	JEDNOKREVETNA, 
+	DVOKREVETNA_SA_JEDNIM_LEZAJEM, 
+	DVOKREVETNA_SA_DVA_LEZAJA,
+	TROKREVETNA;
+	
+}

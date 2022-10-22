@@ -1,0 +1,4 @@
+#id; id rezervacije; datum ; status rezervacije
+1 ; 1 ; 15.07.2022 ; POTVRDJENA
+2 ; 3 ; 14.08.2022 ; OTKAZANA
+3 ; 5 ; 19.08.2022 ; POTVRDJENA
